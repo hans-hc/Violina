@@ -1,6 +1,6 @@
 # Violina - Real-Time ML Violin Posture Tracker
 
-[![Demo Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://i.ytimg.com/vi/2j-sW01iNbg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGDYgEyh_MA8=&rs=AOn4CLCDiqHttjlNzObRL1i5Q-q05iXOaw))]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=2j-sW01iNbg))
+[![Demo Video](https://img.youtube.com/vi/2j-sW01iNbg/maxresdefault.jpg)](https://www.youtube.com/watch?v=2j-sW01iNbg)
 
 ## Inspiration
 Violin posture often breaks down not because players don't know proper form, but because fatigue sets in during practice. As focus shifts to the music, wrists drop, arms drift, and tension builds without the player noticing. Violina was created to make posture visible again — providing real-time awareness when a teacher isn't there to correct it. We wanted to empower musicians to self-correct and build healthy habits, even when practicing alone.
